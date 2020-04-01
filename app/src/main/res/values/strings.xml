@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NewWeatherApp</string>
+    <string name="dashboard_button">Wyszukaj pogodę</string>
+    <string name="dashboard_autor">Informacje o autorze</string>
+    <string name="dashboard_header">Wpisz miasto aby wyszukać pogodę</string>
+
+    <string name="error_header">Nie udało się odnaleźć miasta </string>
+    <string name="error_description">Prosimy spróbować ponownie</string>
+    <string name="error_button">Spróbuj ponownie</string>
+
+
+    <string name="detailsNowTemperature">5</string>
+    <string name="detailsCelsiusMark">o</string>
+    <string name="detailsCelsiusLetter">C</string>
+
+    <string name="detailsTodayDate">06.02.2020</string>
+    <string name="detailsCityName">Warszawa</string>
+
+    <string name="detailsClouds">Clouds</string>
+    <string name="detailsVisibility">Visibility</string>
+    <string name="detailsWeather">Weather"</string>
+
+    <string name="detailsCloudsDescription">Pochmurno</string>
+    <string name="detailsVisibilityDescription">Słaba widoczność</string>
+    <string name="detailsWeatherDescription">Wietrznie"</string>
+
+    <string name="detailsbutton">Wyszukaj ponownie"</string>
+
+
+
+
+
+
+</resources>
